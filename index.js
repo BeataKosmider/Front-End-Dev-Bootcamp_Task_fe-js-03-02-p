@@ -1,4 +1,4 @@
-function multiplyBy() {
+const multiplyBy = (arr, number) => {
   // Zaimplementuj zadanie zgodnie z wytycznymi
 };
 
