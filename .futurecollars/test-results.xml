@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" time="0.241">
+  <testsuite name="Funkcja multiplyBy" errors="0" failures="0" skipped="0" timestamp="2023-01-31T22:47:13" time="0.232" tests="3">
+    <testcase classname="Funkcja multiplyBy powinna zwrócić tablicę" name="Funkcja multiplyBy powinna zwrócić tablicę" time="0">
+    </testcase>
+    <testcase classname="Funkcja multiplyBy nie powinna modyfikować przekazanego parametru" name="Funkcja multiplyBy nie powinna modyfikować przekazanego parametru" time="0.001">
+    </testcase>
+    <testcase classname="Funkcja multiplyBy powinna zwracać tablicę posiadającą elementy przemnożone przez drugi parametr" name="Funkcja multiplyBy powinna zwracać tablicę posiadającą elementy przemnożone przez drugi parametr" time="0">
+    </testcase>
+  </testsuite>
+</testsuites>
